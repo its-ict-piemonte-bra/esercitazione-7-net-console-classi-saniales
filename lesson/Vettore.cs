@@ -216,7 +216,7 @@ namespace lesson
         /// <returns>L'oggetto Vettore generato</returns>
         public static Vettore Deserialize(string path)
         {
-
+            throw new NotImplementedException();
         }
     }
 }
